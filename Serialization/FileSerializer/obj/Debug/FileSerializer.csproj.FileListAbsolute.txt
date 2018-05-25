@@ -1,0 +1,7 @@
+D:\C#_Test\Learning\Serialization\FileSerializer\bin\Debug\MyUtilities.FileSerializer.exe
+D:\C#_Test\Learning\Serialization\FileSerializer\bin\Debug\MyUtilities.FileSerializer.pdb
+D:\C#_Test\Learning\Serialization\FileSerializer\obj\Debug\FileSerializer.csprojResolveAssemblyReference.cache
+D:\C#_Test\Learning\Serialization\FileSerializer\obj\Debug\MyUtilities.Properties.Resources.resources
+D:\C#_Test\Learning\Serialization\FileSerializer\obj\Debug\FileSerializer.csproj.GenerateResource.Cache
+D:\C#_Test\Learning\Serialization\FileSerializer\obj\Debug\MyUtilities.FileSerializer.exe
+D:\C#_Test\Learning\Serialization\FileSerializer\obj\Debug\MyUtilities.FileSerializer.pdb

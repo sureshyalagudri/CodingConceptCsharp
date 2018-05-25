@@ -1,0 +1,6 @@
+D:\CodingConcepts\C#\CodingConceptCsharp\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\CodingConcepts\C#\CodingConceptCsharp\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\CodingConcepts\C#\CodingConceptCsharp\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\CodingConcepts\C#\CodingConceptCsharp\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+D:\CodingConcepts\C#\CodingConceptCsharp\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\CodingConcepts\C#\CodingConceptCsharp\DesignPatterns\obj\Debug\DesignPatterns.pdb
