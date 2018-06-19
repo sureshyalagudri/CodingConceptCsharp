@@ -1,0 +1,9 @@
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entities\bin\Debug\Zza.Entities.dll
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entities\bin\Debug\Zza.Entities.pdb
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entities\obj\Debug\Zza.Entities.dll
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entities\obj\Debug\Zza.Entities.pdb
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entities\bin\Debug\Zza.Entities.dll.config
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entities\bin\Debug\EntityFramework.dll
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entities\bin\Debug\EntityFramework.xml
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entities\bin\Debug\EntityFramework.SqlServer.xml

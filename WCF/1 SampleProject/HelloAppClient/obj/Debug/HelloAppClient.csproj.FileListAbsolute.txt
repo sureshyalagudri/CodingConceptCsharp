@@ -1,0 +1,14 @@
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\bin\Debug\HelloAppClient.exe.config
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\bin\Debug\HelloAppClient.exe
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\bin\Debug\HelloAppClient.pdb
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\obj\Debug\HelloAppClient.csprojResolveAssemblyReference.cache
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\obj\Debug\MainWindow.g.cs
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\obj\Debug\App.g.cs
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\obj\Debug\HelloAppClient_MarkupCompile.cache
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\obj\Debug\HelloAppClient_MarkupCompile.lref
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\obj\Debug\MainWindow.baml
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\obj\Debug\HelloAppClient.g.resources
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\obj\Debug\HelloAppClient.Properties.Resources.resources
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\obj\Debug\HelloAppClient.csproj.GenerateResource.Cache
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\obj\Debug\HelloAppClient.exe
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\1 SampleProject\HelloAppClient\obj\Debug\HelloAppClient.pdb

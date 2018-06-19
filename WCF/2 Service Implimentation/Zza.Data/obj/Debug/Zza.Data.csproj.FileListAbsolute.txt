@@ -1,0 +1,12 @@
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Data\obj\Debug\Zza.Data.csprojResolveAssemblyReference.cache
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Data\bin\Debug\Zza.Data.dll.config
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Data\bin\Debug\Zza.Data.dll
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Data\bin\Debug\Zza.Data.pdb
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Data\bin\Debug\EntityFramework.dll
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Data\bin\Debug\Zza.Entities.dll
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Data\bin\Debug\Zza.Entities.pdb
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Data\bin\Debug\EntityFramework.xml
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Data\obj\Debug\Zza.Data.dll
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Data\obj\Debug\Zza.Data.pdb
