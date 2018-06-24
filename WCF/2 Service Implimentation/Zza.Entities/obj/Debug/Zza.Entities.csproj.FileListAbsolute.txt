@@ -7,3 +7,4 @@ D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entiti
 D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entities\bin\Debug\EntityFramework.SqlServer.dll
 D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entities\bin\Debug\EntityFramework.xml
 D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\Zza.Entities\obj\Debug\Zza.Entities.csprojResolveAssemblyReference.cache

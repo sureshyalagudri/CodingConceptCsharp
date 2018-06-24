@@ -1,0 +1,14 @@
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\obj\Debug\SelfHosting.csprojResolveAssemblyReference.cache
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\bin\Debug\SelfHosting.exe.config
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\bin\Debug\SelfHosting.exe
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\bin\Debug\SelfHosting.pdb
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\bin\Debug\AppService.dll
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\bin\Debug\Zza.Data.dll
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\bin\Debug\Zza.Entities.dll
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\bin\Debug\EntityFramework.dll
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\bin\Debug\AppService.pdb
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\bin\Debug\Zza.Data.pdb
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\bin\Debug\Zza.Entities.pdb
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\bin\Debug\EntityFramework.xml
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\obj\Debug\SelfHosting.exe
+D:\CodingConcepts\C#\CodingConceptCsharp\WCF\2 Service Implimentation\SelfHosting\obj\Debug\SelfHosting.pdb

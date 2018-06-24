@@ -10,11 +10,12 @@ using System.ServiceModel;
 namespace AppService
 {
     [ServiceBehavior(InstanceContextMode = InstanceContextMode.PerCall)]
-    class AppService : IAppService, IDisposable
+    public class clsAppService : IAppService, IDisposable
     {
         readonly ZzaDbContext dbContext = new ZzaDbContext();
         public List<Product> GetProducts()
         {
+            //var principle = System.Threading.Thread.CurrentPrincipal;
             return dbContext.Products.ToList();
         }
         public List<Customer> GetCustomers()
