@@ -1,0 +1,4 @@
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\DataLayer\bin\Debug\DataLayer.dll
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\DataLayer\bin\Debug\DataLayer.pdb
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\DataLayer\obj\Debug\DataLayer.dll
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\DataLayer\obj\Debug\DataLayer.pdb

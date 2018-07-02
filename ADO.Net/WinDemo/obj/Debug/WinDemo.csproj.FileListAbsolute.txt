@@ -1,0 +1,11 @@
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\bin\Debug\WinDemo.exe.config
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\bin\Debug\WinDemo.exe
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\bin\Debug\WinDemo.pdb
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\obj\Debug\WinDemo.Form1.resources
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\obj\Debug\WinDemo.Properties.Resources.resources
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\obj\Debug\WinDemo.csproj.GenerateResource.Cache
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\obj\Debug\WinDemo.exe
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\obj\Debug\WinDemo.pdb
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\bin\Debug\DataLayer.dll
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\bin\Debug\DataLayer.pdb
+E:\Learning\GitC#\CodingConceptCsharp\ADO.Net\WinDemo\obj\Debug\WinDemo.csprojResolveAssemblyReference.cache
