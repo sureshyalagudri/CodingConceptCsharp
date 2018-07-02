@@ -1,0 +1,6 @@
+D:\CodingConcepts\C#\CodingConceptCsharp\Algorithms\bin\Debug\Algorithms.exe.config
+D:\CodingConcepts\C#\CodingConceptCsharp\Algorithms\bin\Debug\Algorithms.exe
+D:\CodingConcepts\C#\CodingConceptCsharp\Algorithms\bin\Debug\Algorithms.pdb
+D:\CodingConcepts\C#\CodingConceptCsharp\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+D:\CodingConcepts\C#\CodingConceptCsharp\Algorithms\obj\Debug\Algorithms.exe
+D:\CodingConcepts\C#\CodingConceptCsharp\Algorithms\obj\Debug\Algorithms.pdb
