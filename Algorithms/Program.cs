@@ -11,28 +11,7 @@ namespace Algorithms
     class Program
     {
         int position = 0;
-        public static int MyBSearch(int[] arr, int left, int right, int value)
-        {
-            if (right >= left)
-            {
-                int pos = left + (right - left) / 2;
-
-                if (arr[pos] == value)
-                {
-                    return pos;
-                }
-
-                if (value < arr[pos])
-                {
-                    return MyBSearch(arr, left, pos - 1, value);
-                }
-                else if (value > arr[pos])
-                {
-                   return MyBSearch(arr, pos + 1, right, value);
-                }
-            }
-            return -1;
-        }
+        
 
         static void Main(string[] args)
         {
@@ -81,10 +60,20 @@ namespace Algorithms
             }
 
             //Array.BinarySearch(values, 665);
-            int g = MyBSearch(values, 0, 999, 665);
-
-
+            int g = BinarySearch.MyBSearch(values, 0, 999, 665);
             #endregion
+
+
+            #region MyRegion
+            int[] arr = new int[10] { 100, 50, 20, 40, 10, 60, 80, 70, 90, 30 };
+
+            //SortingAlgorithms.SelectionSort(ref arr);
+            SortingAlgorithms.InsertionSort(ref arr);
+
+            for (int i = 0; i < arr.Length; i++)
+                Console.WriteLine(arr[i]);
+            #endregion
+
         }
     }
 }
