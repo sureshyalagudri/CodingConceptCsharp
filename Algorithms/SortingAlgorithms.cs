@@ -242,10 +242,6 @@ namespace Algorithms
         public static void BubbleSort(ref int[] arr)
         {
             int t;
-            for (int i = 0; i < arr.Length; i++)
-            {
-                Console.WriteLine(arr[i]);
-            }
             for (int j = 0; j <= arr.Length - 2; j++)
             {
                 for (int i = 0; i <= arr.Length - 2; i++)

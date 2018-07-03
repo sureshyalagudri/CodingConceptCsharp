@@ -64,14 +64,21 @@ namespace Algorithms
             #endregion
 
 
-            #region MyRegion
+            #region Sorting Algorithm
             int[] arr = new int[10] { 100, 50, 20, 40, 10, 60, 80, 70, 90, 30 };
 
             //SortingAlgorithms.SelectionSort(ref arr);
-            SortingAlgorithms.InsertionSort(ref arr);
+            //SortingAlgorithms.InsertionSort(ref arr);
+            //SortingAlgorithms.HeapSort(ref arr);
+            SortingAlgorithms.MergeSort(ref arr, 0, arr.Length-1);
 
             for (int i = 0; i < arr.Length; i++)
                 Console.WriteLine(arr[i]);
+            #endregion
+
+            #region Searching Algorithm
+            int value = SearchingAlgorithms.BinarySearch(arr, 20);
+
             #endregion
 
         }
