@@ -8,6 +8,16 @@ using System.Threading.Tasks;
 
 namespace BloomFilter
 {
+    interface a
+    {
+        int MyProperty { get; set; }
+    }
+
+    interface b:a
+    {
+    }
+
+
     class Program
     {
         static void Main(string[] args)
@@ -36,14 +46,13 @@ namespace BloomFilter
                 Console.Error.WriteLine("Usual Filter: {0} {1}", stopwatch.ElapsedMilliseconds, status);
 
                 // Sreach using Bloom Filter.
-                var filter = new Filter<string>(words.Length);
+                MyBloomFilter filter = new MyBloomFilter(words.Length); ;
                 foreach (string item in words)
                 {
                     filter.Add(item);
                 }
 
                 stopwatch.Restart();
-                stopwatch.Start();
                 status = false;
                 status = filter.Contains(wordtoFind);
                 stopwatch.Stop();

@@ -4,3 +4,9 @@ E:\Learning\Bloom Filter\C#\BloomFilter\bin\Debug\BloomFilter.pdb
 E:\Learning\Bloom Filter\C#\BloomFilter\obj\Debug\BloomFilter.csprojResolveAssemblyReference.cache
 E:\Learning\Bloom Filter\C#\BloomFilter\obj\Debug\BloomFilter.exe
 E:\Learning\Bloom Filter\C#\BloomFilter\obj\Debug\BloomFilter.pdb
+E:\Learning\GitC#\CodingConceptCsharp\BloomFilter\bin\Debug\BloomFilter.exe.config
+E:\Learning\GitC#\CodingConceptCsharp\BloomFilter\obj\Debug\BloomFilter.exe
+E:\Learning\GitC#\CodingConceptCsharp\BloomFilter\obj\Debug\BloomFilter.pdb
+E:\Learning\GitC#\CodingConceptCsharp\BloomFilter\bin\Debug\BloomFilter.exe
+E:\Learning\GitC#\CodingConceptCsharp\BloomFilter\bin\Debug\BloomFilter.pdb
+E:\Learning\GitC#\CodingConceptCsharp\BloomFilter\obj\Debug\BloomFilter.csprojResolveAssemblyReference.cache
